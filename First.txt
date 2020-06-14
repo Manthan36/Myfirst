@@ -3,3 +3,5 @@ Welcome to my palce
 What do you want to drink?
 Tea
 Coffee
+Beer
+Wine
